@@ -1,1 +1,2 @@
-# Cab_Booking_System
+# cab-booking-system
+Cab booking system using Object Oriented design in Java
